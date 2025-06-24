@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Prerna Shambhavee
 A passionate Data Science student from India
 
-📧 Email Me: ✉️ [your- shambhavee07prerna@gmail.com] For Collaboration, Projects, or Just to Connect! 😊
+📧 Email Me: ✉️ shambhavee07prerna@gmail.com For Collaboration, Projects, or Just to Connect! 😊
 
 🔭 I’m currently working on: You"a machine learning model for predictive analysis"
 
