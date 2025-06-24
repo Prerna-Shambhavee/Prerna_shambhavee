@@ -1,4 +1,23 @@
+# 💫 Hi 👋, I'm Prerna Shambhavee
+A passionate Data Science student from India
 
+📧 Email Me: ✉️ [your- shambhavee07prerna@gmail.com] For Collaboration, Projects, or Just to Connect! 😊
+
+🔭 I’m currently working on: You"a machine learning model for predictive analysis"
+
+🌱 I’m currently learning: "Advanced Python, Deep Learning, or Big Data tools"
+
+👯 I’m looking to collaborate on: "Data Analysis, AI research, or open-source contributions"
+
+🤔 I’m looking for help with: "optimizing neural networks or data visualization"
+
+💬 Ask me about: Data Science, Python, or cool tech trends!
+
+📫 How to reach me: shambhavee07prerna@gmail.com
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I believe data tells stories, and I love uncovering them!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prerna_shambhavee) 
 
