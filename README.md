@@ -3,7 +3,7 @@ A passionate Data Science student from India
 
 📧 Email Me: ✉️ shambhavee07prerna@gmail.com For Collaboration, Projects, or Just to Connect! 😊
 
-🔭 I’m currently working on: You"a machine learning model for predictive analysis"
+🔭 I’m currently working on: "a machine learning model for predictive analysis"
 
 🌱 I’m currently learning: "Advanced Python, Deep Learning, or Big Data tools"
 
